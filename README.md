@@ -1,5 +1,5 @@
 # birthday-manager
-é um gerenciador de aniversários feito em C; exercício 5 da disciplina de Linguagem de Programação.
+É um gerenciador de aniversários feito em C; exercício 5 da disciplina de Linguagem de Programação.
 
 --conteúdos utilizados--
 strings;
